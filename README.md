@@ -11,7 +11,7 @@
 ### ...
 
 ### Инструменты
-Для всей работы используем [VS Code](https://code.visualstudio.com). Установите следующие расширения [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag), [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag), [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker), [https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint), [HTML CSS Support](https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css), [IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode)
+Для всей работы используем [VS Code](https://code.visualstudio.com). Установите следующие расширения [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag), [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag), [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker), [ES Lint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint), [HTML CSS Support](https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css), [IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode)
 
 ## FAQ
  - Когда что-то непонятно всегда старайтесь ответить на вопрос своими силами, гугл, яндекс, ютуб, индусы все что кажется полезным идет в дело. Это поможет научиться точнее задавать вопросы, декомпозивать их и шуршать по страничкам интернета
