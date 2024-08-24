@@ -32,3 +32,11 @@
  - [U•ᴥ•U Дока](https://doka.guide/css/)
  - [БЭМ](https://ru.bem.info/methodology/key-concepts/)
 
+## Этап 3 – JS
+И так, умея версать можно начать добавлять логику нашей страничке. JS позволяет не только оживить наш сайт, но и собирать метр
+
+ - [Learn.JavaScript](https://learn.javascript.ru) отличный учебник по JS, вся инфа в актуальном состоянии. В конце каждой страницы есть задания которые обязательны к выполнению
+ - [U•ᴥ•U Дока](https://doka.guide/js/)
+ - [MDN](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps) тут же и доки по JS
+ - [Web.dev](https://web.dev/learn/javascript)
+ - [Net Ninja](https://www.youtube.com/watch?v=qoSksQ4s_hg&list=PL4cUxeGkcC9i9Ae2D9Ee1RvylH38dKuET) классные видосы по JS. Бужет большим плюсом делать проект из видео
