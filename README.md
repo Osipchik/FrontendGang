@@ -2,7 +2,7 @@
 
 Все курсы состоят из нескольких этапов, в конце каждого этапа есть задания которые мы выполняем только после полно изучения материала.
 
-### [Основы](https://github.com/Osipchik/FrontendGang/blob/course-1/README.md)
+### [Основы](https://github.com/Osipchik/FrontendGang/blob/master/docs/Cource-I.md)
 ### [JS II](#)
 ### [React - part I](#)
 ### ...
