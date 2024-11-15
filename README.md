@@ -2,10 +2,10 @@
 
 Все курсы состоят из нескольких этапов, в конце каждого этапа есть задания которые мы выполняем только после полно изучения материала.
 
-### [Основы](https://github.com/Osipchik/FrontendGang/blob/master/docs/Cource-I.md)
-### [JS II](#)
-### [React - part I](#)
-### ...
+### [Основы]([https://github.com/Osipchik/FrontendGang/blob/master/docs/Cource-I.md](https://github.com/Osipchik/FrontendGang/tree/3a5e2a245489c14bbb1fe3d095232bc039047d9e/docs/Cource-I%20(HTML%20%26%20CSS)))
+### [React](https://github.com/Osipchik/FrontendGang/tree/master/docs/Cource-II%20(React%20basic))
+### [Redux & Saga](https://github.com/Osipchik/FrontendGang/tree/master/docs/Course-III%20(Redux%20%26%20Saga))
+### [Interactive UI](#)
 ### ...
 ### ...
 ### ...
