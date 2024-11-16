@@ -36,6 +36,13 @@ my-app
     └── setupTests.js
 ```
 
-Далее запустите приложение `pnpm start`.
+Далее запустите команду `pnpm start`.
 Вот и первое приложение)
+
+## Сруктура приложения
+
+*README.md* – просто файлик для документирования проекта, не является частью проекта.
+*[node_modules](https://medium.com/@snehalv.2010/what-is-node-modules-folder-f13b5c32dd8b)* – папка в которую сохраняются зависимости приложения.
+
+Идем дальше – [крестики нолики](https://github.com/Osipchik/FrontendGang/blob/master/docs/Cource-II%20(React%20basic)/3-TicTakToe.md).
 
